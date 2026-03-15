@@ -34,7 +34,7 @@ The contract stores game state in Soroban persistent storage and allows users to
 
 ## Deployed Smart Contract Link
 
-XXX
+🔗 https://lab.stellar.org/r/testnet/contract/CDOHV6LWSWURCSGIHMSE55K2PL3G7HUBMCENUIROOZVLMUHVZ5TUF6WP
 
 ## Contract Location
 
