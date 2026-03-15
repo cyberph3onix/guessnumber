@@ -44,6 +44,7 @@ The contract stores game state in Soroban persistent storage and allows users to
 ## Quick Commands
 
 From `contracts/hello-world`:
+![screenshot of deployed project](image.png)
 
 ```bash
 make build
